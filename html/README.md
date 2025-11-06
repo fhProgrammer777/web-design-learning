@@ -7,7 +7,7 @@ This exercise demonstrates the behavior of **block elements, inline elements, an
 - Box 3: Using clear  
 
 Files included:
-- `index.html` → HTML file for this exercise
+- `float-layout-demo.html` → HTML file for this exercise
 - `imgs/` → Images used in this example
 
 ## 🇮🇷 فارسی
@@ -19,3 +19,4 @@ Files included:
 فایل‌های موجود:
 - `index.html` → فایل HTML تمرین  
 - `imgs/` → تصاویر استفاده شده در این تمرین
+
