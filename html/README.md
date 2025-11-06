@@ -1,4 +1,4 @@
-# Block, Inline & Float in CSS / بلاک، اینلاین و فلات در CSS
+# Block, Inline & Float in CSS
 
 ## 🇬🇧 English
 This exercise demonstrates the behavior of **block elements, inline elements, and floating images** in CSS.  
@@ -19,5 +19,6 @@ Files included:
 فایل‌های موجود:
 - `float-layout-demo.html` → فایل HTML تمرین  
 - `imgs/` → تصاویر استفاده شده در این تمرین
+
 
 
