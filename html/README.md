@@ -17,6 +17,7 @@ Files included:
 - باکس ۳: استفاده از clear  
 
 فایل‌های موجود:
-- `index.html` → فایل HTML تمرین  
+- `float-layout-demo.html` → فایل HTML تمرین  
 - `imgs/` → تصاویر استفاده شده در این تمرین
+
 
